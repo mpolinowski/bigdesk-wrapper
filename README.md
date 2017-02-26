@@ -1,6 +1,6 @@
 ## This is a clone of [bigdesk](https://github.com/hlstudio/bigdesk).
 
-We needed to wrap Express.js around bigdesk to run it on localhost. Install node.js and npm run to start the app on port 3000!
+We needed to wrap Express.js around bigdesk to run it on localhost. Install node.js and npm run to start the app on port 4444!
 
 
 ```
